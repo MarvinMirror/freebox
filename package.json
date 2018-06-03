@@ -1,0 +1,15 @@
+{
+  "name": "freebox_gcs",
+  "version": "1.0.0",
+  "description": "Freebox Smart Home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.7.0",
+    "express": "^4.16.3"
+  }
+}
